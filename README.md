@@ -3,4 +3,6 @@
 -Estado de sistema
 
 para ejecutar debes de ejecutar
+
+
 `npm app.js`
